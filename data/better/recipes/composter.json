@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "E E",
+        "E E",
+        "EEE"
+    ],
+    "key": {
+        "E": {
+            "tag":"better:wood"
+        }
+    },
+    "result": {
+        "item": "minecraft:composter",
+        "count": 8
+    }
+}

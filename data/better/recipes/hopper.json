@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EFE",
+        "EFE",
+        " E "
+    ],
+    "key": {
+        "E": {
+            "item":"minecraft:iron_ingot"
+        },
+        "F": {
+            "tag":"better:wood"
+        }
+    },
+    "result": {
+        "item": "minecraft:hopper",
+        "count": 1
+    }
+}

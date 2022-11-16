@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EEE",
+        "E E",
+        "EEE"
+    ],
+    "key": {
+        "E": {
+            "tag":"better:wood"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest",
+        "count": 4
+    }
+}

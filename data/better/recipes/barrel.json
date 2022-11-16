@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EEE",
+        " E ",
+        "EEE"
+    ],
+    "key": {
+        "E": {
+            "tag":"better:wood"
+        }
+    },
+    "result": {
+        "item": "minecraft:barrel",
+        "count": 4
+    }
+}

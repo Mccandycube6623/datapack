@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ER",
+        "EFR",
+        " ER"
+    ],
+    "key": {
+        "E": {
+            "item":"minecraft:stick"
+        },
+        "F": {
+            "item":"minecraft:dropper"
+        },
+        "R": {
+            "item":"minecraft:string"
+        }
+    },
+    "result": {
+        "item": "minecraft:dispenser",
+        "count": 1
+    }
+}

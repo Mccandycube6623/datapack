@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient":[
+    {
+        "item": "minecraft:warped_stem"
+    },
+    {
+        "item": "minecraft:crimson_stem"
+    }
+    ],
+    "result": "minecraft:ancient_debris",
+    "experience": 100,
+    "cookingtime": 72000
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "E",
+        "E"
+    ],
+    "key": {
+        "E": {
+            "tag":"better:wood"
+        }
+    },
+    "result": {
+        "item": "minecraft:stick",
+        "count": 16
+    }
+}
