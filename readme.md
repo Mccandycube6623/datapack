@@ -4,4 +4,4 @@ This datapack work on MHYC's SMP
 ---by MHYC133  
 ---------------------------------
 `MHYC`133
-[测试](mhychat.eu.org"mhychat")
+[测试](http://mhychat.eu.org "mhychat")
