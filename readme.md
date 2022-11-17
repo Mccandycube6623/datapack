@@ -1,1 +1,1 @@
-This datapack work on MHYC's SMP
+§2This datapack work on MHYC's SMP
