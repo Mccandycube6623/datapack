@@ -1,7 +1,7 @@
-This datapack work on MHYC's SMP  
+This datapack work on MHYC's SMP<br>
 =================================
----by Mc_candycube6623  
----by MHYC133  
+---by Mc_candycube6623<br>
+---by MHYC133<br>
 ---------------------------------
-`MHYC`133
+`MHYC`133<br>
 [测试](http://mhychat.eu.org "mhychat")
