@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "F"
+    ],
+    "key": {
+        "F": {
+            "item": "minecraft:hopper"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest_minecart",
+        "count": 1
+    }
+}
