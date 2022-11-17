@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{tag:{id:"cpp:magnet"}}}] at @s if entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:diamond",Count:4b}}] run function better:head
