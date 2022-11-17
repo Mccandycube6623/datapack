@@ -1,20 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "QF",
-        "E "
-    ],
-    "key": {
-        "E": {
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
             "item":"minecraft:repeater"
         },
-        "F": {
+        {
             "item":"minecraft:stick"
         },
-        "Q": {
+        {
             "item":"minecraft:quartz"
         }
-    },
+    ],
     "result": {
         "item": "minecraft:comparator",
         "count": 1
