@@ -1,4 +1,4 @@
-        This datapack work on MHYC's SMP<br>
+This datapack work on MHYC's SMP<br>
 =================================
 　　---by Mc_candycube6623<br>
 　　---by MHYC133<br>
