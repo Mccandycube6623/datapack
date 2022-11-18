@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        "EFE",        
+        "GGG"
+    ],
+    "key": {
+        "E": {
+            "item":"minecraft:ender_eye"
+        },
+        "C": {
+            "item":"minecraft:coal_block"
+        },
+        "G": {
+            "item":"minecraft:terracotta"
+        },
+        "F": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:player_head",
+        "count": 1
+    }
+}
