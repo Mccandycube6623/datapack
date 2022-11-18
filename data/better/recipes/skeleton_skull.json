@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        "EFE",        
+        "GGG"
+    ],
+    "key": {
+        "E": {
+            "item":"minecraft:ender_eye"
+        },
+        "C": {
+            "item":"minecraft:quartz_block"
+        },
+        "G": {
+            "item":"minecraft:white_terracotta"
+        },
+        "F": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:skeleton_skull",
+        "count": 1
+    }
+}

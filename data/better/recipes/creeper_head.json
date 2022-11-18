@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        "EFE",        
+        "GGG"
+    ],
+    "key": {
+        "E": {
+            "item":"minecraft:ender_eye"
+        },
+        "C": {
+            "item":"minecraft:emerald_block"
+        },
+        "G": {
+            "item":"minecraft:green_terracotta"
+        },
+        "F": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:creeper_head",
+        "count": 1
+    }
+}
