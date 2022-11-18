@@ -1,1 +1,1 @@
-execute as @e[type=item,nbt={Item:{id:"minecraft:written_book",Count:1b}}] at @s if entity @e[type=item,nbt={Item:{id:"minecraft:player_head",Count:1b}}] run function better:head/tick
+execute as @e[type=item,nbt={Item:{id:"minecraft:written_book",Count:1b}}] at @s if entity @e[type=item,nbt={Item:{id:"minecraft:player_head",Count:1b}}] run function better:head/head
